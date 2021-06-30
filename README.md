@@ -5,3 +5,4 @@
 ### Required resource files:
 	- https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 	- https://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz
+	- https://pjreddie.com/media/files/yolov3.weights
